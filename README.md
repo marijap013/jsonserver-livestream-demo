@@ -13,7 +13,7 @@ http://localhost:8000/streams
 
 ## Clone React App
 
-https://github.com/marijap013/reactnative-node-livestream-demo/blob/main/README.md
+https://github.com/marijap013/reactnative-node-livestream-demo
 
 
 ## Clone RTMP-Server
